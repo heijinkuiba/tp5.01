@@ -238,4 +238,11 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
+    /* 作者：石浩然
+     * 备注：视图输出字符串替换内容 
+     * 时间：2017.9.5 11:10
+     */
+     'view_replace_str'      =>[
+         '__CSS__'=>'public/static/',//路径根据自己路径修改
+     ],
 ];
